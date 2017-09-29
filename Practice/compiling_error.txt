@@ -1,0 +1,4 @@
+/home/vineeth/Desktop/Practice/stringManipulation.cpp: In function ‘int main()’:
+/home/vineeth/Desktop/Practice/stringManipulation.cpp:15:28: error: cannot convert ‘std::__cxx11::string {aka std::__cxx11::basic_string<char>}’ to ‘char*’ for argument ‘1’ to ‘char* strcat(char*, const char*)’
+     three = strcat(one, two);
+                            ^
